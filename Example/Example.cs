@@ -1,6 +1,5 @@
 ﻿using ReplacementsModule.Config;
 using ReplacementsModule.Core;
-using ReplacementsModule.Models;
 using System;
 
 namespace ConsoleApplication
